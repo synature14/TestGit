@@ -8,5 +8,6 @@
 import Foundation
 
 class Login {
-    
+    var id: String = ""
+    var pwd: String = ""
 }
