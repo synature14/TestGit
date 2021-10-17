@@ -15,6 +15,7 @@
 		98A56575271C4CB300D38294 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98A56573271C4CB300D38294 /* LaunchScreen.storyboard */; };
 		98A56580271C4CB300D38294 /* SkyscannerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A5657F271C4CB300D38294 /* SkyscannerTests.swift */; };
 		98A5658B271C4CB300D38294 /* SkyscannerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A5658A271C4CB300D38294 /* SkyscannerUITests.swift */; };
+		98A56599271C59BA00D38294 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98A56598271C59BA00D38294 /* Login.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		98A56586271C4CB300D38294 /* SkyscannerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SkyscannerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98A5658A271C4CB300D38294 /* SkyscannerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkyscannerUITests.swift; sourceTree = "<group>"; };
 		98A5658C271C4CB300D38294 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98A56598271C59BA00D38294 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				98A56571271C4CB300D38294 /* Assets.xcassets */,
 				98A56573271C4CB300D38294 /* LaunchScreen.storyboard */,
 				98A56576271C4CB300D38294 /* Info.plist */,
+				98A56598271C59BA00D38294 /* Login.swift */,
 			);
 			path = Skyscanner;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				98A5656D271C4CB200D38294 /* ViewController.swift in Sources */,
 				98A56569271C4CB200D38294 /* AppDelegate.swift in Sources */,
 				98A5656B271C4CB200D38294 /* SceneDelegate.swift in Sources */,
+				98A56599271C59BA00D38294 /* Login.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
